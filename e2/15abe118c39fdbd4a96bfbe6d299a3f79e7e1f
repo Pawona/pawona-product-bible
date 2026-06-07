@@ -1,0 +1,26 @@
+03-product/user-personas.md
+  h_20649baae43f97 1-395
+03-product/product-vision.md
+  h_20649baae43f97 1-222
+03-product/success-metrics.md
+  h_20649baae43f97 1-590
+03-product/core-loop.md
+  h_20649baae43f97 1-437
+03-product/mvp-definition.md
+  h_20649baae43f97 1-496
+03-product/feature-prioritization.md
+  h_20649baae43f97 1-537
+03-product/product-pillars.md
+  h_20649baae43f97 1-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e215abe118c39fdbd4a96bfbe6d299a3f79e7e1f",
+  "prompts": {},
+  "humans": {
+    "h_20649baae43f97": {
+      "author": "Maulana Anjari Anggorokasih <maulana17anjari@gmail.com>"
+    }
+  }
+}
