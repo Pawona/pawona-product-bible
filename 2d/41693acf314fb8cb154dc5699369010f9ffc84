@@ -1,0 +1,19 @@
+README.md
+  s_64b3f72a7cdfc0::t_8b6a743bbb740b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "2d41693acf314fb8cb154dc5699369010f9ffc84",
+  "prompts": {},
+  "sessions": {
+    "s_64b3f72a7cdfc0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_15db01a5dffeMaDQ3bZWRNuaT3",
+        "model": "glm-5.1"
+      },
+      "human_author": "Maulana Anjari Anggorokasih <maulana17anjari@gmail.com>"
+    }
+  }
+}
