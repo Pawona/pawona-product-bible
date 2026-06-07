@@ -1,0 +1,30 @@
+06-ai/prompting-strategy.md
+  h_20649baae43f97 1-673
+06-ai/rag-strategy.md
+  h_20649baae43f97 1-656
+06-ai/ai-principles.md
+  h_20649baae43f97 1-455
+06-ai/evaluation-framework.md
+  h_20649baae43f97 1-783
+06-ai/ai-vision.md
+  h_20649baae43f97 1-369
+06-ai/memory-strategy.md
+  h_20649baae43f97 1-642
+06-ai/vision-ai-strategy.md
+  h_20649baae43f97 1-681
+06-ai/ai-safety.md
+  h_20649baae43f97 1-599
+06-ai/recipe-intelligence-engine.md
+  h_20649baae43f97 1-581
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e4964377557d7a6a5d80334f703102fff22abf2b",
+  "prompts": {},
+  "humans": {
+    "h_20649baae43f97": {
+      "author": "Maulana Anjari Anggorokasih <maulana17anjari@gmail.com>"
+    }
+  }
+}
