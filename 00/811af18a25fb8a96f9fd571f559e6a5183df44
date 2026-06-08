@@ -1,0 +1,32 @@
+07-engineering/backend-architecture.md
+  h_20649baae43f97 1-745
+07-engineering/flutter-architecture.md
+  h_20649baae43f97 1-751
+07-engineering/third-party-services.md
+  h_20649baae43f97 1-770
+07-engineering/ai-architecture.md
+  h_20649baae43f97 1-799
+07-engineering/data-architecture.md
+  h_20649baae43f97 1-846
+07-engineering/deployment-architecture.md
+  h_20649baae43f97 1-776
+07-engineering/infra-architecture.md
+  h_20649baae43f97 1-731
+07-engineering/security-architecture.md
+  h_20649baae43f97 1-825
+07-engineering/observability.md
+  h_20649baae43f97 1-740
+07-engineering/technical-architecture.md
+  h_20649baae43f97 1-680
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "00811af18a25fb8a96f9fd571f559e6a5183df44",
+  "prompts": {},
+  "humans": {
+    "h_20649baae43f97": {
+      "author": "Maulana Anjari Anggorokasih <maulana17anjari@gmail.com>"
+    }
+  }
+}
